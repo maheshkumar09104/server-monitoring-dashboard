@@ -2,6 +2,9 @@
 
 A real-time server monitoring dashboard built with **Python Flask** and **psutil**, featuring a professional dark UI, live graphs, and Docker containerization.
 
+## 🌐 Live Demo
+👉 [Click here to view live](https://server-monitoring-dashboard-h6o7.onrender.com)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0-black?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)
@@ -64,7 +67,7 @@ server-monitoring-dashboard/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/server-monitoring-dashboard.git
+git clone https://github.com/maheshkumar09104/server-monitoring-dashboard.git
 cd server-monitoring-dashboard
 
 # Build and run
@@ -140,7 +143,7 @@ docker build --no-cache -t server-monitor .
 Aspiring Cloud/DevOps Engineer  
 📍 Chennai, Tamil Nadu, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maheshkumar09104)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
