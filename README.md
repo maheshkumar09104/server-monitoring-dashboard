@@ -67,7 +67,7 @@ server-monitoring-dashboard/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/server-monitoring-dashboard.git
+git clone https://github.com/maheshkumar09104/server-monitoring-dashboard.git
 cd server-monitoring-dashboard
 
 # Build and run
