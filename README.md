@@ -2,6 +2,9 @@
 
 A real-time server monitoring dashboard built with **Python Flask** and **psutil**, featuring a professional dark UI, live graphs, and Docker containerization.
 
+## 🌐 Live Demo
+👉 [Click here to view live](https://server-monitoring-dashboard-h6o7.onrender.com)
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.0-black?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker)
